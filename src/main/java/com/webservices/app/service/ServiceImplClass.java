@@ -17,4 +17,16 @@ public class ServiceImplClass implements ServiceInterface{
 		n.setName(request.getName());
 		return n;
 	}
+	
+	@Override
+	public ResponseBody getCity(String id) {
+		
+		ResponseBody n = new ResponseBody();
+		RequestBody request = new RequestBody();
+		request.setCity(id);
+		n.setCity(request.getCity());	
+		n.setId(request.getId());
+		n.setName(request.getName());
+		return n;
+	}
 }

@@ -6,4 +6,6 @@ import com.webservices.app.response.ResponseBody;
 public interface ServiceInterface {
 	
 	public ResponseBody print(RequestBody request);
+
+	public ResponseBody getCity(String id);
 }
