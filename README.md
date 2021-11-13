@@ -1,10 +1,28 @@
 # Web Services
+APIs using Spring.
 
-### About
-- A demo Web services API.
+## Table of contents
+1. Introduction
+2. Technologies
+3. Project status
+4. Installation
+5. License
 
-### Framework
+## Introduction
+A demo Web services - API.
+
+## Technologies
+- Java
 - Spring
 
-### Language
-- Java
+## Project status
+> **In progress**
+
+## Installation
+### Get repository
+```git
+git https://github.com/msaf9/webservices.git
+cd webservices
+```
+
+## License
