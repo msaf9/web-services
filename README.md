@@ -21,8 +21,8 @@ A demo Web services - API.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/webservices.git
-cd webservices
+git https://github.com/msaf9/web-services.git
+cd web-services
 ```
 
 ## License
