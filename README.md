@@ -2,16 +2,16 @@
 APIs using Spring.
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Introduction](#introduction)
+- [Technology Stack](#technology-stack)
+- [Project status](#project-status)
+- [Installation](#installation)
+- [License](#license)
 
 ## Introduction
 A demo Web services - API.
 
-## Technologies
+## Technology Stack
 - Java
 - Spring
 
